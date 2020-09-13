@@ -8,4 +8,4 @@ title: About
 # MIT License
 ---
 
-> **Note**: IT 관련 블로그를 시작합니다.
+> **Note**: 여러 개발관련 글들을 작성할 예정입니다.
