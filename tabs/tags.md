@@ -22,7 +22,7 @@ type: tags
 
 {% for t in sorted_tags %}
   <div>
-    <a class="tag" href="{{ site.baseurl }}/posts/{{ t | replace: ' ', '-' | downcase | url_encode }}/">{{ t }}</a>
+    <a class="tag" href="{{ site.baseurl }}/posts/{{ t | replace: ' ', '-' | url_encode }}/">{{ t }}</a>
   </div>
 {% endfor %}
 
