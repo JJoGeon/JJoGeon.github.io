@@ -5,15 +5,15 @@
 # MIT Licensed
 
 
-panel:
-  lastmod: "Recent Update"
-  trending_tags: "Trending Tags"
-  toc: "Contents"
+#panel:
+#  lastmod: "Recent Update"
+#  trending_tags: "Trending Tags"
+#  toc: "Contents"
 
-post:
-  relate_posts: "Further Reading"
-  button:
-    next: Newer
-    previous: Older
+#post:
+#  relate_posts: "Further Reading"
+#  button:
+#    next: Newer
+#    previous: Older
 
 search_hint: "Search"   # text show on search bar
